@@ -19,6 +19,3 @@ Engine::~Engine()
 {
 
 }
-
-
-//wololo
