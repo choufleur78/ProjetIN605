@@ -1,0 +1,1 @@
+# ProjetIN506  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/bendito/ProjetIN506.gitgit push -u origin master

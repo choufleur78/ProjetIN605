@@ -8,7 +8,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
 
-  /*  Valve V12 = new Valve();
+   /* Valve V12 = new Valve();
     connect(ui->V12,SIGNAL(clicked(bool)),V12,SLOT(setopen(bool)));*/
 }
 
